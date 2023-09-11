@@ -1,0 +1,44 @@
+h1 {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+    font-size: 20px;
+  }
+  h2 {
+    color: grey;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  ul {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    color: grey;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .weather {
+    border: 1px solid #5e0bca57;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  .temperature {
+    color: rgb(1, 6, 17);
+    font-size: 45px;
+    font-weight: 400px;
+    line-height: 2;
+  }
+  body {
+    background-color: #b0f5e9;
+  }
+  .row {
+    color: rgb(91, 49, 175);
+    font-size: 16px; 
+  }
+   .weather-temp{
+     width: 40px;
+     text-align: center;
+   }
